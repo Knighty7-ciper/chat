@@ -1,6 +1,4 @@
-
-
-No, we need to be **100% explicit** about every file required for a production-ready app. Here's a **complete file inventory** with no gaps:
+ Here's a **complete file inventory** with no gaps:
 
 ---
 
